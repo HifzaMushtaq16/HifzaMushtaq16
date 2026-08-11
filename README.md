@@ -99,8 +99,7 @@ A voice-first agent that answers patient calls, books appointments, and syncs ev
 
 ### 📊 Stats
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=HifzaMushtaq16&show_icons=true&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HifzaMushtaq16&layout=compact&hide_border=true" /> </div>
-
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=HifzaMushtaq16&show_icons=true&hide_border=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HifzaMushtaq16&layout=compact&hide_border=true" /> </div>
 ---
 
 ### 🏆 Recognition
